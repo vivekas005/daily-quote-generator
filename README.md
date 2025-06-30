@@ -9,7 +9,7 @@ A simple and beginner-friendly web app that displays a new motivational quote ev
 - Great for JavaScript beginners to learn DOM manipulation
 
 ## 🔗 Live Demo:
-*Add your GitHub Pages link here if you publish it*
+https://github.com/vivekas005/daily-quote-generator
 
 ---
 Made with  by Viveka
