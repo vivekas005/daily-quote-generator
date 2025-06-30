@@ -1,0 +1,26 @@
+body {
+  background: #f0f8ff;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 20px;
+  background: #0077cc;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
