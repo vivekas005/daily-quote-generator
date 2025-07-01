@@ -9,7 +9,7 @@ A simple and beginner-friendly web app that displays a new motivational quote ev
 - Great for JavaScript beginners to learn DOM manipulation
 
 ## 🔗 Live Demo:
-https://dailyquoutes.netlify.app/
+ https://vivekas005.github.io/daily-quote-generator/
 
 ---
 Made with  by Viveka
